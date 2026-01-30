@@ -67,11 +67,10 @@ const Novedades = () => {
                     <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>
                         Lunes a Viernes: 8:00 am – 8:00 pm
                     </p>
-                </p>
+                </div>
             </div>
-        </div >
-    </section >
-  );
+        </section>
+    );
 };
 
 export default Novedades;

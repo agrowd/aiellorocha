@@ -3,7 +3,7 @@ import React from 'react';
 const WhatsAppBtn = () => {
     return (
         <a
-            href="https://wa.me/5491100000000" // Placeholder number
+            href="https://wa.me/5491124508227"
             target="_blank"
             rel="noopener noreferrer"
             style={{
